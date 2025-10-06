@@ -19,5 +19,5 @@ For citation, please refer to the DOI badge below.
 
 **Read the Preprint Here:**
 
-https://dx.doi.org/10.2139/ssrn.5551300)](https://dx.doi.org/10.2139/ssrn.5551300
+https://dx.doi.org/10.2139/ssrn.5551300
 
